@@ -1,0 +1,5 @@
+C:\Documents and Settings\Amin\My Documents\Visual Studio 2008\Projects\NFA2DFA\NFA2DFA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amin\My Documents\Visual Studio 2008\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe
+C:\Documents and Settings\Amin\My Documents\Visual Studio 2008\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.pdb
+C:\Documents and Settings\Amin\My Documents\Visual Studio 2008\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.exe
+C:\Documents and Settings\Amin\My Documents\Visual Studio 2008\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.pdb
